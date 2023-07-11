@@ -1,6 +1,6 @@
 # Пробные проекты (pilot projects)
 
-  1. Проект - [Задача "Угадай число"]()
+  ###### 1. Проект - [Задача "Угадай число"]()
 
      * Stack - Visual Studio Code, Jupyter Notebook, Python
     
