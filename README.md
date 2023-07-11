@@ -3,7 +3,7 @@
 
 # Пробные проекты (pilot projects)
 
-  ### 1. Project - [Задача "Угадай число"]()
+  ### 1. Task - [Задача "Угадай число"]()
   
   * Stack - Visual Studio Code, Jupyter Notebook, IPython
     
