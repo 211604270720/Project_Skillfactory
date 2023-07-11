@@ -1,7 +1,9 @@
 # Пробные проекты (pilot projects)
 
   1. Проект - [Задача "Угадай число"]()
+     * Stack - Visual Studio Code, Jupyter Notebook, Python
   2. Проект - [Визуализация "Отток клиентов банка" ]()
+    * Stack - Jupyter Notebook, Python, Pandas, Plotly, Matplotlib, Seaborn
 
 ---
 
