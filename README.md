@@ -1,9 +1,9 @@
 
 ---
 
-# Пробные проекты (pilot projects)
+# Задачи (tasks)
 
-1. Task 1 - [Задача "Угадай число"]()
+1. Задача 1 - ["Угадай число"]()
   
     * Stack - Visual Studio Code, Jupyter Notebook, IPython
 
