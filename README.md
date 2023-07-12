@@ -3,11 +3,11 @@
 
 # Пробные проекты (pilot projects)
 
-  ### 1. Task - [Задача "Угадай число"]()
+1. Task - [Задача "Угадай число"]()
   
   * Stack - Visual Studio Code, Jupyter Notebook, IPython
-    
-  ### 3. Project - [Визуализация "Отток клиентов банка" ]()
+
+2. Project - [Визуализация "Отток клиентов банка" ]()
 
   * Stack - Jupyter Notebook, IPython, Pandas, Plotly, Matplotlib, Seaborn
 
