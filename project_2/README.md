@@ -90,10 +90,10 @@
 
 ---
 
-### Результаты и выводы по [ПРОЕКТУ](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/Project-2.ipynb)
+### Результаты и выводы
 
 -
 -
-
+[ПРОЕКТ](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/Project-2.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Оглавление)
