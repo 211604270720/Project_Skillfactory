@@ -1,7 +1,7 @@
 # Project 2 - Анализ вакансий из HeadHunter
 
 ## Оглавление
-  [1. Описание проекта](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Описание-проекта)
+  [1. Описание проекта](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Описание-проекта)
 
   [2. Какой кейс решаем?](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Какой-кейс-решаем)
 
