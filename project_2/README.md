@@ -77,6 +77,6 @@
 
   В результате работы были выявленны и удалены анамальные выбросы в столбцах Возраст, Опыт работы, Заработной платы.
 
-[Ссылка на код](https://github.com/211604270720/Git/blob/master/PROJECT-1/Project-1.ipynb)
+[Ссылка на код](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/Project-2.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
