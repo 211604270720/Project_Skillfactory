@@ -7,7 +7,7 @@
 
   [3. Информация о данных](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#3.-Краткая-информация-о-данных)
 
-  [4. Этапы работы над проектом](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#4.-Этапы-работы-над-проектом)
+  [4. Этапы работы над проектом](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Этапы-работы-над-проектом)
 
   [5. Результаты и выводы](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Результаты-и-выводы)
 
