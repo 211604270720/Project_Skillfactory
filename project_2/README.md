@@ -1,19 +1,21 @@
 # Project 2 - Анализ вакансий из HeadHunter
 
 ## Оглавление
-  [1. Описание проекта](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Описание-проекта)
+  [1. Какой кейс решаем?](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#1.-Какой-кейс-решаем)
+  
+  [2. Описание проекта](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#2.-Описание-проекта)
 
-  [2. Какой кейс решаем?](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Какой-кейс-решаем)
+  [3. Информация о данных](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#3.-Краткая-информация-о-данных)
 
-  [3. Информация о данных](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Краткая-информация-о-данных)
+  [4. Этапы работы над проектом](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#4.-Этапы-работы-над-проектом)
 
-  [4. Этапы работы над проектом](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Этапы-работы-над-проектом)
+  [5. Результаты](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#5.-Результаты-и-выводы)
 
-  [5. Результаты](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Результаты)
+### 1. Какой кейс решаем?
 
-  [6. Выводы](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Выводы)
+Анализ вакансий из HeadHunter.
 
-### 1. Описание проекта
+### 2. Описание проекта
 
 В рамках проекта был проведен анализ вакансий IT отросли. Этот анализ включал предварительное и детальное исследование данных, анализ работодателей и предметный анализ.
 
@@ -27,12 +29,7 @@
 
 Результаты проекта предоставили ценные выводы и рекомендации, которые могут быть использованы для улучшения подбора вакансий для специалистов Data Science.
 
-
 :arrow_up: [к оглавлению](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Оглавление)
-
-### 2. Какой кейс решаем?
-
-Анализ вакансий из HeadHunter.
 
 **Условия соревнования:**
 -
