@@ -38,8 +38,6 @@
 
 Результаты проекта предоставили ценные выводы и рекомендации, которые могут быть использованы для улучшения подбора вакансий для специалистов Data Science.
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Оглавление)
-
   **Метрики качества.**
 
   - Количество вакансий;
@@ -92,11 +90,10 @@
 
 ---
 
-### Результаты и выводы
+### Результаты и выводы [ПРОЕКТ](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/Project-2.ipynb)
 
 -
 -
 
-[Здесь проект](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/Project-2.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Оглавление)
