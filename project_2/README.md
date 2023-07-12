@@ -28,7 +28,7 @@
 Результаты проекта предоставили ценные выводы и рекомендации, которые могут быть использованы для улучшения подбора вакансий для специалистов Data Science.
 
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Оглавление)
 
 ### Какой кейс решаем?
 
