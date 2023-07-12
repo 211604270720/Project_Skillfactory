@@ -90,7 +90,7 @@
 
 Файл с исходными данными [здесь.]()
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Оглавление)
 
 ### Этапы работы над проектом
   1. Предварительный анализ данных;
@@ -98,7 +98,7 @@
   3. Анализ работодателей;
   4. Предметный анализ.
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
+
 
 ### Результаты
 
@@ -107,7 +107,7 @@
 
 [Ссылка на код](https://github.com/211604270720/Git/blob/master/PROJECT-1/Project-1.ipynb)
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
+
 
 ### Выводы
 
@@ -115,4 +115,4 @@
 
 [Ссылка на код](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/Project-2.ipynb)
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2#Оглавление)
