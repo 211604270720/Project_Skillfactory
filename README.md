@@ -23,7 +23,7 @@
      
      * Stack - Jupyter Notebook, IPython, Pandas, Numpy, Plotly, Matplotlib, Seaborn
   
-  2. Project 2 - [Анализ вакансий из HeadHunter]()
+  2. Project 2 - [Анализ вакансий из HeadHunter](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/Project-2.ipynb)
 
      * Stack - Jupyter Notebook, IPython, PostgreSQL, Pandas, Numpy, Plotly, Matplotlib, Psycopg2, Requests
     
