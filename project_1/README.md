@@ -4,19 +4,19 @@
 # Проект 1 - Анализ резюме из HeadHunter
 
 ## Оглавление
-[1. Какой кейс решаем?](https://github.com/211604270720/Project_Skillfactory/tree/master/project_1/README.md#Какой-кейс-решаем)
+[1. Какой кейс решаем?](https://github.com/211604270720/Project_Skillfactory/blob/master/project_1/README.md#какой-кейс-решаем)
 
-[2. Описание проекта](https://github.com/211604270720/Project_Skillfactory/tree/master/project_1/README.md#Описание-проекта)
+[2. Описание проекта](https://github.com/211604270720/Project_Skillfactory/blob/master/project_1/README.md#описание-проекта)
 
-[3. Метрики качества](https://github.com/211604270720/Project_Skillfactory/tree/master/project_1/README.md#Метрики-качества)
+[3. Метрики качества](https://github.com/211604270720/Project_Skillfactory/blob/master/project_1/README.md#метрики-качества)
 
-[4. Что практикуем?](https://github.com/211604270720/Project_Skillfactory/tree/master/project_1/README.md#Что-практикуем-?)
+[4. Что практикуем?](https://github.com/211604270720/Project_Skillfactory/blob/master/project_1/README.md#что-практикуем)
 
-[5. Информация о данных](https://github.com/211604270720/Project_Skillfactory/tree/master/project_1/README.md#Информация-о-данных)
+[5. Информация о данных](https://github.com/211604270720/Project_Skillfactory/blob/master/project_1/README.md#информация-о-данных)
 
-[6. Этапы работы над проектом](https://github.com/211604270720/Project_Skillfactory/tree/master/project_1/README.md#Этапы-работы-над-проектом)
+[6. Этапы работы над проектом](https://github.com/211604270720/Project_Skillfactory/blob/master/project_1/README.md#этапы-работы-над-проектом)
 
-[7. Выводы](https://github.com/211604270720/Project_Skillfactory/tree/master/project_1/README.md#Выводы)
+[7. Выводы](https://github.com/211604270720/Project_Skillfactory/blob/master/project_1/README.md#выводы)
 
 *Стек - Jupyter Notebook, IPython, PostgreSQL, Pandas, Numpy, Plotly, Matplotlib*
 
@@ -88,7 +88,7 @@
 
 ## Информация о данных
 
- * [Файл с данными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) выгруженный с сайта hh.ru.
+ * [Файл с данными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) с сайта hh.ru.
  * Количество резюме в базе 44 744.
  * Признаки:
     - Пол, возраст;  

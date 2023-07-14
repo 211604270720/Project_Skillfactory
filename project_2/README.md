@@ -4,13 +4,13 @@
 # Проект 2 - Анализ вакансий из HeadHunter
 
 ## Оглавление
-[1. Какой кейс решаем?](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/README.md#какой-кейс-решаем?)
+[1. Какой кейс решаем?](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/README.md#какой-кейс-решаем)
 
 [2. Описание проекта](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/README.md#описание-проекта)
 
 [3. Метрики качества](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/README.md#метрики-качества)
 
-[4. Что практикуем?](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/README.md#что-практикуем?)
+[4. Что практикуем?](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/README.md#что-практикуем)
 
 [5. Информация о данных](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/README.md#информация-о-данных)
 
