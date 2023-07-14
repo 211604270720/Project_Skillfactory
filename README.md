@@ -4,8 +4,10 @@
 ## Задачи (tasks)
 
 1. Задача 1 - ["Угадай число"]()
-  
+
 2. Задача 2 -
+
+3. Задача 3 -
    
 
 ---
@@ -18,5 +20,7 @@
           
   2. Project 2 - [Анализ вакансий из HeadHunter](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/README.md)
 
-   3.
+   3. Project 3 -
+
+   4. Project 4 -
 ---
