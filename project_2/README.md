@@ -16,7 +16,7 @@
 
 [6. Этапы работы над проектом](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2/README.md#Этапы-работы-над-проектом)
 
-[7. Выводы](https://github.com/211604270720/Project_Skillfactory/tree/master/project_2/README.md#Выводы)
+[7. Выводы](https://github.com/211604270720/Project_Skillfactory/blob/master/project_2/README.md#выводы)
 
 *Стек - Jupyter Notebook, IPython, PostgreSQL, Pandas, Numpy, Plotly, Matplotlib, Psycopg2, Requests*
 
